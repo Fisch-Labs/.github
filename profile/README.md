@@ -4,7 +4,6 @@ We’re a small team building from first principles
 
 We believe future infrastructure will be:
 - Graph-native
-- Version-aware
 - LLM-compatible by design
 
 ---
