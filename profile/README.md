@@ -7,8 +7,6 @@ We believe future infrastructure will be:
 - Version-aware
 - LLM-compatible by design
 
-This is not another wrapper around old ideas. We’re here to build from scratch — fast, lean, and ready for the next decade of data.
-
 ---
 
 ### Projects
