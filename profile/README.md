@@ -1,23 +1,19 @@
-# 🐟 Fisch-Labs
+# Fisch-Labs
 
-We're building cool, weird, and fast stuff with graphs.
+We’re a small team building from first principles — starting with FishDB, a graph database written in C++ with native versioning baked in.
 
-### 🚧 In the lab:
-- 🧠 FishDB – a versioned graph database engine in C++
-- 🤖 Graph-native infra for RAG, LLMs, and anything semi-intelligent
-- 🧪 Systems + AI + vibes
+We believe future infrastructure will be:
+- Graph-native
+- Version-aware
+- LLM-compatible by design
 
----
-
-### 📍 Who we are:
-A small group of engineers who think infrastructure should be smarter, not heavier.
-
-📦 Experimental.  
-⚡ Fast.  
-😈 Slightly unhinged.
-
-> Stay weird. Ship fast.
+This is not another wrapper around old ideas. We’re here to build from scratch — fast, lean, and ready for the next decade of data.
 
 ---
 
-🐡 Made with love in the deep sea.
+### Projects
+- **[FishDB](https://github.com/Fisch-Labs/FishDB)** – A versioned graph database engine, built for RAG, explainability, and weird experiments
+
+---
+
+### Not in it for the stars. In it for the system design.
