@@ -1,6 +1,6 @@
 # Fisch-Labs
 
-We’re a small team building from first principles — starting with FishDB, a graph database with native versioning baked in.
+We’re a small team building from first principles
 
 We believe future infrastructure will be:
 - Graph-native
